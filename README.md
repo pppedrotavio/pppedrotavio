@@ -64,8 +64,10 @@ Sistema completo de gerenciamento desenvolvido do zero, do back-end ao front-end
 
 <div align="center">
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pppedrotavio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppedrotavio&layout=compact&theme=tokyonight&hide_border=true)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pppedrotavio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/pppedrotavio)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pppedrotavio&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%2Fn%5BY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppedrotavio&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pppedrotavio)
 
 </div>
 
@@ -76,7 +78,6 @@ Sistema completo de gerenciamento desenvolvido do zero, do back-end ao front-end
 Estou aberto a oportunidades como **Desenvolvedor Java Júnior** — pode me chamar!
 
 - 📧 pedrotavio222@hotmail.com
-- 📱 (11) 98792-7623
 - 💼 [linkedin.com/in/pedro-otavio1](https://linkedin.com/in/pedro-otavio1)
 
 ---
